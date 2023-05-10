@@ -10,15 +10,15 @@
 
 ### About Project
 
-- This is an Asp.Net Core MVC API versioning example. "GetProducts" method call product datas from ProductDataService.
+- This is an Asp.Net Core MVC API versioning example. "GetProducts" method calls product data from ProductDataService.
 
 
 ### Main Features
 
 - There are 2 models as "ProductViewModelv1 and ProductViewModelv2" in Models.
-- There is a "ProductDataService" that contains product datas. 
-- There are 2 method as GetProductsv1 and GetProductsv2 in ProductDataService. 
-- There are 2 Controller as "ProductController" in v1 and v2 folder.
+- There is a "ProductDataService" that contains product data. 
+- There are 2 methods as GetProductsv1 and GetProductsv2 in ProductDataService. 
+- There are 2 controllers as "ProductController" in v1 and v2 folders.
 - Get method expects a string value for api version like 1.0 or 2.0.
 
 ### API Endpoints
