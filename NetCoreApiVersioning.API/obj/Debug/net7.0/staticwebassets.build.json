@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YalPpw5tMcWYHTsndl2oouQu68oJNHWzFtyC1FXisxA=",
+  "Source": "NetCoreApiVersioning.API",
+  "BasePath": "_content/NetCoreApiVersioning.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
